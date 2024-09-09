@@ -1,3 +1,4 @@
+![Glotch image](https://github.com/CraftKontrol/Glotch-for-Max4Live/blob/main/Images/GlotchLogo.png?raw=true)
 # Glotch-for-Max4Live
 
 Glotch is a Step Glitcher for Live 12
@@ -7,4 +8,4 @@ Glotch is a Step Glitcher for Live 12
 with Delay / Reverb / Reverser / Cyclotron
 a basic low/high pass filter, and a random function.
 
-![Glotch image](https://github.com/CraftKontrol/Glotch-for-Max4Live/blob/main/Images/GlotchLogo.png?raw=true)
+![Glotch image](https://github.com/CraftKontrol/Glotch-for-Max4Live/blob/main/Images/Glotch.png?raw=true)
